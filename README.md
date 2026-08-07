@@ -1,4 +1,4 @@
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-success?style=for-the-badge)](resqmeals-redesign_almost_done (6).html)
+[![Live Demo](resqmeals-redesign_almost_done (6).html)
 # 🍽️ ResQMeals – Food Donation & Distribution Platform
 
 A full-stack web application built with HTML, JavaScript, Node.js, Express.js, and MySQL.
