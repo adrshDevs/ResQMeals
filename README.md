@@ -1,4 +1,4 @@
-[Live Demo]([https://adrshDevs.github.io/ResQMeals/index.html])
+[Live Demo](https://adrshDevs.github.io/ResQMeals/index.html)
 # 🍽️ ResQMeals – Food Donation & Distribution Platform
 
 A full-stack web application built with HTML, JavaScript, Node.js, Express.js, and MySQL.
